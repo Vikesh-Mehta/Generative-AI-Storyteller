@@ -54,7 +54,7 @@ Follow these steps to get the project running locally:
 **1. Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/generative-storyteller-gemini.git # Replace with your repo URL
+   git clone https:https://github.com/Vikesh-Mehta/Generative-AI-Storyteller.git
    cd generative-storyteller-gemini
 
 2. Create and Activate a Python Virtual Environment:
